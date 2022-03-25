@@ -1,0 +1,1 @@
+To properly execute this script, you have to open the etl-load-files-into-mongodb.ipynb file on Jupyter Notebook.
