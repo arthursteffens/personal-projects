@@ -1,0 +1,201 @@
+property_id,prop_type,prop_status,price,baths,beds,address_city,address_line,address_state_code,address_state,address_county,address_lat,address_lon,address_neighborhood_name
+M3563150851,condo,for_sale,359000,1,2.0,Bronx,3135 Johnson Ave Apt 5F,NY,New York,Bronx,40.883002,-73.911131,Riverdale
+M9955852421,condo,for_sale,18000000,5,5.0,New York,180 Avenue of the Americas Ph C,NY,New York,Queens,40.720238,-74.005211,NA
+M3724125997,condo,for_sale,1665000,2,2.0,New York,7 E 14th St Apt 606,NY,New York,New York,40.735853,-73.99251,Union Square
+M3280044879,condo,for_sale,1075000,1,1.0,New York City,30 W 61st St Apt 7B,NY,New York,New York,40.769991,-73.983294,Lincoln Square
+M9945116017,condo,for_sale,1339158,1,1.0,New York City,1 City Pt Apt 65F,NY,New York,Kings,40.691923,-73.983131,Northwestern Brooklyn
+M4467725479,condo,for_sale,399000,1,2.0,Brooklyn,2620 E 13th St Apt 4F,NY,New York,Kings,40.587045,-73.956533,Sheepshead Bay
+M9351742130,condo,for_sale,345000,1,2.0,Brooklyn,2310 Ocean Pkwy Apt 2J,NY,New York,Kings,40.593004,-73.965459,South Marlboro
+M4494688901,multi_family,for_sale,1799000,5,6.0,Woodside,73-07 Woodside Ave,NY,New York,Queens,40.743272,-73.891303,Elmhurst
+M4246866533,single_family,for_sale,1088000,2,3.0,Staten Island,227 Kinghorn St,NY,New York,Richmond,40.53025,-74.165236,Annadale
+M9704379665,condo,for_sale,1455000,1,1.0,New York City,20 River Ter Apt 10K,NY,New York,New York,40.716574,-74.016132,Battery Park City
+M4995657963,condo,for_sale,1250000,2,3.0,New York City,1492 Bedford Ave Apt 2A,NY,New York,Kings,40.672042,-73.954902,Crown Heights
+M9058065399,land,for_sale,1899000,0,1.0,Richmond Hill,118-08 Jamaica Ave,NY,New York,Queens,40.699645,-73.831336,Richmond Hill
+M9821928492,condo,for_sale,9000000,7,10.0,Brooklyn,76 Pierrepont St,NY,New York,Kings,40.695357,-73.994432,Northwestern Brooklyn
+M3170693093,condo,for_sale,1350000,2,2.0,New York,464 W 44th St Apt 2F,NY,New York,Queens,40.761613,-73.994068,NA
+M3274148455,multi_family,for_sale,2295000,6,11.0,Long Island City,34-32 33rd St,NY,New York,Queens,40.758237,-73.926543,New Astoria
+M9951306444,single_family,for_sale,225000,2,3.0,Greene,836 W,NY,New York,New York,40.768516,-73.945217,Roosevelt Island
+M4364366536,condo,for_sale,2400000,2,2.0,New York City,50 Riverside Blvd Apt 5G,NY,New York,Queens,40.780377,-73.991349,NA
+M3221931013,single_family,for_sale,1795000,3,6.0,Brooklyn,299 Whitman Dr,NY,New York,Kings,40.606498,-73.905896,Mill Basin
+M4468090554,single_family,for_sale,998000,3,3.0,Brooklyn,4515 Avenue D,NY,New York,Kings,40.642119,-73.933623,East Flatbush
+M3652558484,condo,for_sale,680000,2,2.0,Brooklyn,70 Bay 20th St Apt 1A,NY,New York,Kings,40.604581,-74.003519,Southwestern Brooklyn
+M3341365516,condo,for_sale,745000,1,1.0,New York City,380 Rector Pl Apt 8K,NY,New York,New York,40.709078,-74.01806,Battery Park City
+M9892670294,condo,for_sale,2350000,3,2.0,New York City,695 1st Ave Unit 28G,NY,New York,New York,40.747378,-73.971097,Midtown Manhattan
+M3208815265,condo,for_sale,1495000,2,2.0,New York City,405 W 23rd St Apt 2B,NY,New York,New York,40.746993,-74.001426,Chelsea
+M3888954271,land,for_sale,150000,0,1.0,Staten Island,134 Freeborn St,NY,New York,Richmond,40.575757,-74.091051,East Shore
+M4473668128,single_family,for_sale,699999,3,3.0,Brooklyn,1709 E 55th St,NY,New York,Kings,40.614932,-73.921323,Flatlands
+M3994206957,condo,for_sale,279000,1,1.0,Forest Hills,72-61 113th St Unit 5K,NY,New York,Queens,40.720555,-73.835967,Forest Hills
+M4254684860,multi_family,for_sale,1190000,2,5.0,Flushing,32-30 103rd St,NY,New York,Queens,40.758607,-73.866126,Northwestern Queens
+M9254950925,condo,for_sale,4500000,0,0.0,New York City,102 Kent St,NY,New York,Kings,40.730451,-73.956951,Northern Brooklyn
+M4659119569,condo,for_sale,192000,1,1.0,Bronx,1640 Metropolitan Ave Apt 2C,NY,New York,Bronx,40.838613,-73.856525,Parkchester
+M3562466126,single_family,for_sale,175000,0,0.0,Queens,10744 120th St,NY,New York,Queens,40.683059,-73.821874,Southwestern Queens
+M4857007074,condo,for_sale,429900,2,2.0,Howard Beach,151-15 84 St Unit 4D,NY,New York,Queens,40.667028,-73.848998,Lindenwood
+M3663324397,single_family,for_sale,1250000,1,1.0,New York,116 Central Park S Apt 9D,NY,New York,New York,40.765626,-73.977483,Theater District
+M4083333427,single_family,for_sale,899000,4,3.0,Staten Island,15 Nutly Pl,NY,New York,Richmond,40.626686,-74.11024,West Brighton
+M4934604179,condo,for_sale,399000,1,2.0,New York City,1075 Grand Concourse Unit Bj,NY,New York,Bronx,40.831973,-73.920667,Concourse
+M9953835919,condo,for_sale,469000,1,1.0,New York City,25 Tudor City Pl Apt 611,NY,New York,New York,40.748641,-73.970511,Midtown East
+M4513192772,condo,for_sale,849000,2,3.0,Brooklyn,601 Surf Ave Apt 19F,NY,New York,Kings,40.575834,-73.974507,Coney Island
+M4432244447,condo,for_sale,965000,1,1.0,Manhattan,203 E 72nd St Apt 11C,NY,New York,New York,40.769958,-73.96,Upper Manhattan
+M4506139786,condo,for_sale,980000,2,2.0,Brooklyn,228 Bushwick Ave Apt 5E,NY,New York,Kings,40.708049,-73.941271,Northern Brooklyn
+M3285150101,condo,for_sale,395000,2,2.0,Queens,74-45 Yellowstone Blvd Unit 3G,NY,New York,Queens,40.715171,-73.858255,Forest Hills
+M3464163492,multi_family,for_sale,3500000,4,5.0,Brooklyn,393 Grand Ave,NY,New York,Kings,40.684042,-73.961641,Clinton Hill
+M3513193702,condo,for_sale,1500000,2,2.0,Brooklyn,225 Eastern Pkwy Apt 2H,NY,New York,Kings,40.671831,-73.960818,Crown Heights
+M3518956837,condo,for_sale,3700000,3,2.0,Manhattan,188 E 64th St Apt 3601,NY,New York,New York,40.764499,-73.964841,Upper Manhattan
+M4639020048,condo,for_sale,1065000,2,1.0,Manhattan,77 Bleecker St Apt 314,NY,New York,New York,40.727128,-73.995937,Downtown Manhattan
+M3915198910,condo,for_sale,1295000,2,2.0,Brooklyn,200 16th St Apt 4G,NY,New York,Kings,40.663659,-73.988994,South Slope
+M3975037345,condo,for_sale,499000,1,1.0,Manhattan,320 E 42nd St Apt 1710,NY,New York,New York,40.749211,-73.97148,Midtown East
+M4103868154,condo,for_sale,425000,1,0.0,Manhattan,317 W 87th St Apt 1D,NY,New York,New York,40.790152,-73.978188,Upper West Side
+M4876023251,condo,for_sale,8495000,5,7.0,Manhattan,53 W 85th St,NY,New York,New York,40.785523,-73.971416,Upper West Side
+M9831956213,condo,for_sale,950000,1,1.0,Manhattan,207 E 74th St Apt 4L,NY,New York,New York,40.770928,-73.958722,Upper Manhattan
+M4426989187,condo,for_sale,1500000,3,3.0,Manhattan,313 W 119th St Unit 3D,NY,New York,New York,40.80693,-73.954483,Harlem
+M4929182275,condo,for_sale,1365000,1,1.0,Manhattan,275 Greenwich St Apt 8L,NY,New York,New York,40.715173,-74.010921,Downtown Manhattan
+M3236640391,multi_family,for_sale,1900000,3,4.0,Brooklyn,21 Revere Pl,NY,New York,Kings,40.675764,-73.940757,Crown Heights
+M9444796456,condo,for_sale,790000,1,1.0,Brooklyn,95-97 Grattan St,NY,New York,Kings,40.706267,-73.929274,Northern Brooklyn
+M9682122469,condo,for_sale,930000,2,2.0,Manhattan,324 E 41st St Apt 802C,NY,New York,New York,40.748683,-73.972103,Midtown East
+M3087660905,condo,for_sale,2495000,3,3.0,Brooklyn,70 Washington St Apt 7O,NY,New York,Kings,40.702083,-73.989943,Northwestern Brooklyn
+M3939614584,condo,for_sale,985000,1,1.0,Brooklyn,110 Livingston St Apt 6Q,NY,New York,Kings,40.690809,-73.990016,Northwestern Brooklyn
+M4296986627,multi_family,for_sale,4950000,3,8.0,Brooklyn,281 President St,NY,New York,Kings,40.681625,-73.995322,South Brooklyn
+M9440172210,condo,for_sale,1398000,2,3.0,Manhattan,504 Grand St Unit A641,NY,New York,New York,40.715057,-73.981829,Cooperative Village
+M9294022969,condo,for_sale,1995000,3,3.0,Manhattan,313 W 121st St Unit Penthouse,NY,New York,New York,40.808181,-73.953811,Harlem
+M3634835056,condo,for_sale,285000,1,2.0,Brooklyn,720 E 31st St Apt 4D,NY,New York,Kings,40.633515,-73.9470496,Central Brooklyn
+M3966707136,condo,for_sale,1350000,2,1.0,Manhattan,345 E 50th St Apt 6E,NY,New York,New York,40.754397,-73.966708,Turtle Bay
+M4880418523,multi_family,for_sale,1295000,2,6.0,Woodhaven,8411 90th St,NY,New York,Queens,40.696849,-73.855334,Southwestern Queens
+M3383514917,single_family,for_sale,3195000,4,7.0,Brooklyn,466 E 17th St,NY,New York,Kings,40.639314,-73.962451,Ditmas Park
+M9319456000,land,for_sale,1499000,0,1.0,Bronx,2778 Briggs Ave,NY,New York,Bronx,40.867984,-73.889801,Fordham Manor
+M4294756570,condo,for_sale,315000,1,1.0,Staten Island,1284 Rockland Ave Apt 1C,NY,New York,Richmond,40.594682,-74.160201,Mid-Island
+M3084156531,multi_family,for_sale,769000,2,4.0,Woodhaven,80-14 88th Rd,NY,New York,Queens,40.68925,-73.860861,Southwestern Queens
+M9512782763,condo,for_sale,3300000,7,14.0,New York City,518 Chauncey St,NY,New York,Kings,40.682294,-73.91098,Central Brooklyn
+M9843666755,condo,for_sale,480000,1,0.0,New York City,101 Lafayette Ave Apt 6L,NY,New York,Kings,40.687552,-73.973987,Northwestern Brooklyn
+M4851570464,condo,for_sale,1438000,2,1.0,New York City,425 5th Ave Apt 48A,NY,New York,New York,40.750965,-73.982198,Garment District
+M3548901323,single_family,for_sale,728000,2,3.0,Staten Island,35 Outerbridge Ave,NY,New York,Richmond,40.526206,-74.216359,Pleasant Plains
+M3363937152,multi_family,for_sale,699999,3,3.0,Staten Island,143 Sharrotts Rd,NY,New York,Richmond,40.537601,-74.222838,Woodrow
+M4306794049,condo,for_sale,1050000,1,1.0,New York,235 E 40th St Apt 38D,NY,New York,New York,40.74921,-73.973674,Midtown East
+M9975683545,condo,for_sale,1795000,1,1.0,New York,7 Essex St Apt 6B,NY,New York,New York,40.714976,-73.990366,Downtown Manhattan
+M3303746357,multi_family,for_sale,749000,3,4.0,Staten Island,51 Cooke St,NY,New York,Richmond,40.617582,-74.159533,North Shore
+M3742643073,condo,for_sale,315000,1,1.0,Staten Island,27 Gadsen Pl Apt 1G,NY,New York,Richmond,40.59307,-74.159672,Mid-Island
+M9676214228,condo,for_sale,262000,1,2.0,Queens Village,224-05 Hillside Ave Unit Lower,NY,New York,Queens,40.731559,-73.742584,Northeastern Queens
+M3543551964,multi_family,for_sale,1499000,2,7.0,Bronx,2776 Briggs Ave,NY,New York,Bronx,40.867891,-73.889863,Fordham Manor
+M4664002629,condo,for_sale,299000,1,1.0,Brooklyn,3235 Emmons Ave Apt 616,NY,New York,Kings,40.584782,-73.931686,Sheepshead Bay
+M3330187353,single_family,for_sale,525000,0,0.0,Brooklyn,1533 Brooklyn Ave,NY,New York,Kings,40.63579,-73.941834,East Flatbush
+M4234774147,single_family,for_sale,575000,0,0.0,Brooklyn,13 Columbus Pl,NY,New York,Kings,40.677722,-73.922443,Northern Brooklyn
+M3698643951,multi_family,for_sale,751500,2,5.0,Brooklyn,537 New Jersey Ave,NY,New York,Kings,40.666094,-73.893064,East New York
+M4388874444,single_family,for_sale,719000,3,4.0,Jamaica,97-15 110th St,NY,New York,Queens,40.688855,-73.833968,Richmond Hill
+M4973232761,single_family,for_sale,469000,2,3.0,Staten Island,109 Anderson Ave,NY,New York,Richmond,40.634985,-74.133879,North Shore
+M3765171941,condo,for_sale,4185000,3,3.0,New York City,36 E 22nd St Apt 6A,NY,New York,New York,40.739693,-73.987831,Flatiron District
+M3276472609,single_family,for_sale,829000,2,4.0,Brooklyn,1021 Crescent St,NY,New York,Kings,40.662452,-73.866556,East New York
+M3457504320,condo,for_sale,99999,1,0.0,Bronx,3215 Olinville Ave Apt 6E,NY,New York,Bronx,40.871962,-73.868573,Olinville
+M3963633997,single_family,for_sale,998000,3,4.0,Briarwood,140-95 Burden Cres,NY,New York,Queens,40.711496,-73.81516,Southeastern Queens
+M4080606716,single_family,for_sale,1378888,1,2.0,Staten Island,288 Major Ave,NY,New York,Richmond,40.597489,-74.072039,East Shore
+M3314459016,condo,for_sale,9200000,9,6.0,New York,357 W 84th St,NY,New York,New York,40.788542,-73.980548,Upper West Side
+M9102750025,condo,for_sale,2799000,1,2.0,New York,45 E 9th St Apt 38,NY,New York,New York,40.732029,-73.993407,Downtown Manhattan
+M9819795621,condo,for_sale,11500000,6,4.0,New York,812 Park Ave Units 9 & 10B,NY,New York,New York,40.773066,-73.962992,Upper Manhattan
+M9450882478,condo,for_sale,5995000,4,3.0,Brooklyn,30 Front St Unit 30B,NY,New York,Kings,40.7022,-73.990838,Northwestern Brooklyn
+M9777834644,condo,for_sale,1350000,2,2.0,New York,243 Riverside Dr Apt 1401,NY,New York,New York,40.796157,-73.974489,Upper West Side
+M4542012307,land,for_sale,180000,0,1.0,Bronx,514 Soundview Ave,NY,New York,Bronx,40.816099,-73.860122,Soundview
+M3900659200,condo,for_sale,375000,1,2.0,Staten Island,44 Bradley Ct Unit A,NY,New York,Richmond,40.600751,-74.132069,Mid-Island
+M3316565503,condo,for_sale,2500000,3,2.0,New York City,135 W 70th St Apt 6G,NY,New York,New York,40.776877,-73.980996,Lincoln Square
+M9009176363,single_family,for_sale,335000,1,1.0,Brooklyn,605 41st St,NY,New York,Kings,40.648878,-74.002506,Sunset Park
+M4522400241,multi_family,for_sale,1675000,5,6.0,Bayside,208-44 15th Dr,NY,New York,Queens,40.783061,-73.782973,Bay Terrace
+M4357797277,single_family,for_sale,1280000,3,5.0,Woodside,42-13 67th St,NY,New York,Queens,40.742366,-73.89728,Woodside
+M3982550055,condo,for_sale,868000,2,2.0,Flushing,38-08 147th St Unit 3D,NY,New York,Queens,40.762935,-73.819529,Murray Hill
+M3584410538,multi_family,for_sale,3800000,9,1.0,Brooklyn,217 Bay 49th St,NY,New York,Kings,40.585523,-73.988374,Gravesend
+M9893260347,condo,for_sale,1600000,2,2.0,New York City,20 Pine St Apt 902,NY,New York,Queens,40.705683,-74.008424,NA
+M9536962767,condo,for_sale,275000,1,1.0,New York City,2912 N 12th St Unit 1F,NY,New York,Kings,40.581602,-73.955535,Brighton Beach
+M3873134619,single_family,for_sale,1378888,3,4.0,Staten Island,70 Sand Ln,NY,New York,Richmond,40.59763,-74.07189,East Shore
+M4173742377,multi_family,for_sale,1495000,3,5.0,Brooklyn,2273 E 71st St,NY,New York,Kings,40.616861,-73.903856,Southeastern Brooklyn
+M3350302403,condo,for_sale,730000,2,4.0,Bronx,3001 Lasalle Ave,NY,New York,Bronx,40.839989,-73.829305,East Bronx
+M4531309247,multi_family,for_sale,699000,2,2.0,Jamaica,132-14 Crossbay Blvd,NY,New York,Queens,40.676292,-73.844076,Southwestern Queens
+M4372508671,single_family,for_sale,1200000,0,0.0,South Ozone Park,128-02 135 Ave,NY,New York,Queens,40.668626,-73.811652,Southwestern Queens
+M3062922464,single_family,for_sale,550000,0,0.0,Queens Ny,12706 177th St,NY,New York,Queens,40.681131,-73.766209,Southeastern Queens
+M3155437962,multi_family,for_sale,1199000,5,6.0,Jamaica,108-15 171 St,NY,New York,Queens,40.698566,-73.784849,Southeastern Queens
+M9780213632,condo,for_sale,2595000,2,2.0,New York City,139 E 23rd St Fl 4,NY,New York,New York,40.739608,-73.984263,Rose Hill
+M3767832437,multi_family,for_sale,950000,3,5.0,Jamaica,114-38 174th St,NY,New York,Queens,40.691609,-73.776317,Southeastern Queens
+M4407487820,single_family,for_sale,769000,3,4.0,South Ozone Park,111-33 130th St,NY,New York,Queens,40.6821,-73.811671,Southwestern Queens
+M3776653428,multi_family,for_sale,869000,4,5.0,Springfield Gardens,143-57 229th St,NY,New York,Queens,40.664073,-73.748806,Southeastern Queens
+M9866503884,condo,for_sale,625000,1,1.0,Brooklyn,1238 63rd St Unit 418,NY,New York,Kings,40.627933,-74.001894,Southwestern Brooklyn
+M3698931531,condo,for_sale,184999,1,1.0,Howard Beach,89-35 155th Ave Unit 1J,NY,New York,Queens,40.667364,-73.84579,Lindenwood
+M3673667209,single_family,for_sale,300000,0,0.0,Bronx,2407 Butler Pl,NY,New York,Bronx,40.836589,-73.845915,East Bronx
+M3607696584,condo,for_sale,1188000,2,2.0,Flushing,131-03 40th Rd Unit 8D,NY,New York,Queens,40.767948,-73.831309,NA
+M9750231175,condo,for_sale,680000,1,1.0,Brooklyn,1238 63rd St Unit 401,NY,New York,Kings,40.627933,-74.001894,Southwestern Brooklyn
+M3657764372,condo,for_sale,999000,1,1.0,New York City,148 E 24th St Apt 10E,NY,New York,Queens,40.739103,-73.982268,NA
+M4503319376,single_family,for_sale,575000,2,3.0,Jamaica,116-25 148th St,NY,New York,Queens,40.681689,-73.79312,Southeastern Queens
+M3402917328,single_family,for_sale,848000,2,3.0,Staten Island,91 Tuckahoe Ave,NY,New York,Richmond,40.527461,-74.187189,Huguenot
+M3120177137,condo,for_sale,1895000,1,1.0,New York City,45 Christopher St Apt 3G,NY,New York,New York,40.733959,-74.001852,Downtown Manhattan
+M3248745525,single_family,for_sale,1195000,3,3.0,New York City,6662 Sedgwick Pl,NY,New York,Kings,40.639854,-74.029252,Southwestern Brooklyn
+M4874227302,condo,for_sale,340000,1,2.0,Jamaica,108-33 160th St Unit 28A,NY,New York,Queens,40.695151,-73.792439,South Side Park
+M4887281754,multi_family,for_sale,898000,2,4.0,Richmond Hill South,104-42 125th St,NY,New York,Queens,40.686958,-73.819055,Southwestern Queens
+M3716466332,condo,for_sale,620000,1,1.0,New York,301 W 110th St Apt 2P,NY,New York,New York,40.801192,-73.958503,Harlem
+M3624355073,condo,for_sale,750000,1,1.0,New York,7 W 92nd St Apt 5G,NY,New York,New York,40.789641,-73.967251,Upper West Side
+M4758896514,condo,for_sale,475000,1,0.0,New York,305 E 40th St Apt 10V,NY,New York,New York,40.74856,-73.972497,Midtown East
+M9911722794,condo,for_sale,349000,1,2.0,Brooklyn,2650 E 13th St Apt 4E,NY,New York,Kings,40.587045,-73.956533,Sheepshead Bay
+M4048734889,multi_family,for_sale,998000,2,7.0,Woodhaven,88-30 86 St,NY,New York,Queens,40.689866,-73.857441,Southwestern Queens
+M4916632245,condo,for_sale,238000,1,1.0,Bronx,3810 Greystone Ave Apt 604,NY,New York,Bronx,40.887766,-73.904878,Riverdale
+M4673177694,condo,for_sale,1350000,2,2.0,New York City,1601 3rd Ave Apt 12H,NY,New York,New York,40.781361,-73.951089,Yorkville
+M3135102223,single_family,for_sale,899000,2,3.0,Flushing,18-20 121st St,NY,New York,Queens,40.782626,-73.847074,College Point
+M3684035701,condo,for_sale,2895000,3,5.0,Brooklyn,368 Grand Ave,NY,New York,Kings,40.685538,-73.962544,Clinton Hill
+M9538871165,condo,for_sale,42000000,7,6.0,New York,54 E 64th St,NY,New York,New York,40.766062,-73.968153,Upper Manhattan
+M3222511677,single_family,for_sale,775000,4,4.0,Staten Island,94 Margaret St,NY,New York,Richmond,40.551573,-74.154122,Great Kills
+M3462050155,single_family,for_sale,310000,2,3.0,Staten Island,88 Westbrook Ave,NY,New York,Richmond,40.6263,-74.151531,North Shore
+M4612169832,condo,for_sale,399999,1,2.0,Flushing,152-72 Melbourne Ave Unit Lf,NY,New York,Queens,40.733522,-73.815324,Kew Gardens Hills
+M4390442915,condo,for_sale,669000,2,2.0,Flushing,144-48 Roosevelt Ave Unit 6A,NY,New York,Queens,40.761817,-73.820195,Murray Hill
+M3165153979,condo,for_sale,985000,1,1.0,New York,445 Fifth Ave Unit 20G,NY,New York,New York,40.751589,-73.981748,Garment District
+M9923433180,single_family,for_sale,399000,0,0.0,Queens,113-65 Springfield Blvd,NY,New York,Queens,40.702176,-73.740599,Queens Village
+M3192861285,single_family,for_sale,1088000,3,3.0,Rego Park,87-52 62 Rd,NY,New York,Queens,40.727264,-73.868696,Rego Park
+M3509443140,condo,for_sale,1150000,1,1.0,New York,242 E 19th St Apt 2D,NY,New York,New York,40.735421,-73.983188,Midtown Manhattan
+M3642243947,condo,for_sale,1650000,1,1.0,New York,93 Worth St Ste 1203,NY,New York,Queens,40.720238,-74.005211,NA
+M9441370437,condo,for_sale,2195000,2,2.0,New York,252 South St Unit 19D,NY,New York,New York,40.710128,-73.991346,Downtown Manhattan
+M3647552343,condo,for_sale,3950000,3,5.0,New York,61 Gates Ave,NY,New York,Kings,40.684574,-73.96626,Clinton Hill
+M3324764010,condo,for_sale,569000,1,0.0,New York,130 W 79th St Apt 9E,NY,New York,New York,40.782224,-73.976875,Upper West Side
+M9478008651,condo,for_sale,350000,1,1.0,New York,302 96th St Apt 2G,NY,New York,Kings,40.615993,-74.03364,Southwestern Brooklyn
+M4650898469,condo,for_sale,495000,1,0.0,New York,280 Rector Pl Apt 5L,NY,New York,New York,40.708667,-74.016858,Battery Park City
+M9493981847,condo,for_sale,399000,1,0.0,New York,85 Livingston St Apt 2H,NY,New York,Kings,40.691515,-73.990604,Northwestern Brooklyn
+M3471580942,condo,for_sale,550000,1,0.0,New York,123 E 75th St Apt 10C,NY,New York,New York,40.77267,-73.960895,Upper Manhattan
+M3028863653,condo,for_sale,2750000,3,3.0,New York,1035 Fifth Ave Unit 8E,NY,New York,New York,40.780477,-73.960686,Upper Manhattan
+M9150230354,condo,for_sale,430000,1,1.0,New York,623 Avenue H Unit 4E,NY,New York,Kings,40.629296,-73.970267,Central Brooklyn
+M9525718337,condo,for_sale,1795000,2,3.0,New York,215 W 98th St Apt 8F,NY,New York,New York,40.795817,-73.970231,Upper West Side
+M3589872948,condo,for_sale,1795000,2,1.0,New York,400 Fifth Ave Unit 35F,NY,New York,Queens,40.756463,-73.994484,NA
+M3215199298,condo,for_sale,1995000,2,2.0,New York,11 E 29th St Apt 34B,NY,New York,New York,40.745127,-73.985513,Midtown Manhattan
+M3830619406,condo,for_sale,1525000,1,1.0,New York,405 W 23rd St Apt 8E,NY,New York,Queens,40.742105,-74.000689,NA
+M4003896896,condo,for_sale,700000,1,2.0,New York,17 E 17th St Unit C5,NY,New York,Kings,40.646323,-73.956793,NA
+M9585072694,condo,for_sale,2195000,2,2.0,New York,252 South St Unit 23L,NY,New York,New York,40.710128,-73.991346,Downtown Manhattan
+M4416729832,condo,for_sale,3120000,2,2.0,New York,110 Charlton St Apt 14D,NY,New York,New York,40.727302,-74.008519,Hudson Square
+M3675621056,condo,for_sale,1200000,2,2.0,New York,870 United Nations Plz Apt 8B,NY,New York,New York,40.752521,-73.965987,Turtle Bay
+M4828895621,condo,for_sale,1025000,1,2.0,New York,115 Willow St Apt 2C,NY,New York,Kings,40.697481,-73.995484,Northwestern Brooklyn
+M9894378000,condo,for_sale,1260000,1,1.0,New York,501 Third Ave Unit 9E,NY,New York,New York,40.745411,-73.977992,Rose Hill
+M9622341932,condo,for_sale,610000,1,0.0,New York,Purves St Unit 12E,NY,New York,Queens,40.745711,-73.938184,NA
+M3947543181,condo,for_sale,3500000,6,5.0,New York,191 Lefferts Pl,NY,New York,Kings,40.680613,-73.956195,Northern Brooklyn
+M3354504649,condo,for_sale,1125000,1,0.0,New York,15 Broad St Apt 1928,NY,New York,New York,40.706532,-74.010588,Downtown Manhattan
+M9628952840,apartment,for_sale,4250000,3,5.0,New York,51 Havemeyer St Unit 1,NY,New York,Kings,40.715101,-73.95385,Northern Brooklyn
+M4186395646,condo,for_sale,1085000,2,1.0,New York,1215 Fifth Ave Unit 15D,NY,New York,New York,40.791787,-73.952546,Harlem
+M4576570521,condo,for_sale,699000,1,0.0,New York,92 Horatio St Apt 1P,NY,New York,New York,40.738521,-74.007846,Downtown Manhattan
+M9419127977,condo,for_sale,1190000,1,1.0,New York,501 Third Ave Unit 6E,NY,New York,New York,40.74541,-73.977992,Rose Hill
+M9123637542,condo,for_sale,14950000,5,4.0,New York,1050 Fifth Ave Unit 18BC,NY,New York,New York,40.781631,-73.959891,Carnegie Hill
+M3481391146,condo,for_sale,1595000,2,2.0,New York,540 W 49th St Apt 303N,NY,New York,Queens,40.768169,-73.98668,NA
+M9497289192,condo,for_sale,940000,3,8.0,New York,1067 Intervale Ave,NY,New York,Bronx,40.825189,-73.897159,West Bronx
+M3090624205,condo,for_sale,1600000,3,4.0,New York,64 Van Buren St,NY,New York,Kings,40.689857,-73.943004,Northern Brooklyn
+M9624019116,condo,for_sale,1055000,1,1.0,New York,547 W 47th St Unit 509,NY,New York,Queens,40.761613,-73.994068,NA
+M4767394708,condo,for_sale,65000000,7,5.0,New York,70 Vestry St Unit Phs,NY,New York,Queens,40.720238,-74.005211,NA
+M4467000275,condo,for_sale,1675000,1,1.0,New York,322 W 57th St Apt 19M,NY,New York,New York,40.767003,-73.984656,Hell's Kitchen
+M9181460429,condo,for_sale,859000,2,2.0,New York,232 E 18th St Apt 6A,NY,New York,Kings,40.645544,-73.962523,Central Brooklyn
+M3432902043,condo,for_sale,1025000,1,1.0,New York,250 Mercer St Apt D301,NY,New York,Queens,40.72589,-73.998109,NA
+M3398410929,condo,for_sale,3250000,2,2.0,New York,28 E 10th St Apt 4K,NY,New York,Queens,40.73186,-73.988906,NA
+M4717812264,condo,for_sale,860000,1,1.0,New York,319 Schermerhorn St Apt 4C,NY,New York,Kings,40.682447,-73.979518,NA
+M9962882754,condo,for_sale,1169000,2,2.0,New York,145 14th St Unit 2,NY,New York,Kings,40.66827,-73.992625,Gowanus
+M4242408252,condo,for_sale,949000,3,2.0,New York,115 E 90th St Unit 1A,NY,New York,New York,40.782551,-73.954305,Carnegie Hill
+M9657150564,apartment,for_sale,24500000,9,8.0,New York,336 W 23rd St,NY,New York,New York,40.745647,-74.000032,Chelsea
+M4824013230,condo,for_sale,370000,1,0.0,New York,325 E 41st St Apt 703,NY,New York,New York,40.748975,-73.97167,Midtown East
+M4590507097,condo,for_sale,760000,1,3.0,New York,1810 3rd Ave Apt B2B,NY,New York,New York,40.788338,-73.947502,Harlem
+M9573293522,condo,for_sale,4750000,3,3.0,New York,515 W 18th St Unit 402,NY,New York,New York,40.745286,-74.007556,Chelsea
+M9715208031,condo,for_sale,675000,1,2.0,New York,57 Park Ter W Apt 5B,NY,New York,Queens,40.869141,-73.926918,NA
+M9770260999,condo,for_sale,340000,1,0.0,New York,57 Park Ter W Apt 2F,NY,New York,Queens,40.869141,-73.926918,NA
+M9339622250,condo,for_sale,2999995,3,2.0,New York,49 Chambers St Apt 10B,NY,New York,New York,40.714001,-74.005136,Civic Center
+M9667384449,condo,for_sale,16850000,6,5.0,New York,109 E 79th St Unit 6WEST,NY,New York,New York,40.775601,-73.959698,Upper Manhattan
+M4467638260,condo,for_sale,1095000,1,1.0,New York,360 E 72nd St Apt A606,NY,New York,New York,40.767636,-73.95673,Upper Manhattan
+M9926647463,condo,for_sale,2950000,3,3.0,New York,1 Gracie Ter Apt 14F,NY,New York,New York,40.772277,-73.945803,Yorkville
+M9133387100,condo,for_sale,3350000,3,4.0,New York,225 W 83rd St Unit 6DE,NY,New York,New York,40.786371,-73.977357,Upper West Side
+M9164341495,condo,for_sale,2700000,2,3.0,New York,41 Central Park W Unit 6EF,NY,New York,New York,40.771414,-73.979678,Lincoln Square
+M4613550962,condo,for_sale,1575000,2,3.0,New York,23 W 116th St Apt 2J,NY,New York,New York,40.801585,-73.947429,Harlem
+M4059769978,condo,for_sale,749000,2,2.0,New York,40 Brighton 1st Rd Apt 6K,NY,New York,Kings,40.575478,-73.96711,Brighton Beach
+M9971326307,condo,for_sale,2795000,3,3.0,New York,68 E 86th St Apt 4B,NY,New York,New York,40.780223,-73.958036,Upper Manhattan
+M9941870035,condo,for_sale,870000,1,0.0,New York,11 Hoyt St Apt 50E,NY,New York,Kings,40.68979,-73.98496,Northwestern Brooklyn
+M9890115310,condo,for_sale,699000,1,1.0,New York,37-26 30th St Unit 4B,NY,New York,Queens,40.745711,-73.938184,NA

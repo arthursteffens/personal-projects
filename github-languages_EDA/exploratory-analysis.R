@@ -13,18 +13,23 @@ View(repos)
 issues <- read.csv("issues.csv")
 View(issues)
 
+issues$name = as.character(issues$name)
+issues$year = as.factor(issues$year)
+issues$quarter = as.factor(issues$quarter)
+
 summary(repos)
 str(repos)
 summary(issues)
 str(issues)
 
-issues$name = as.character(issues$name)
-issues$year = as.factor(issues$year)
-issues$quarter = as.factor(issues$quarter)
 
-issues_summary <- issues %>% group_by(name, year) %>% 
-  summarise(max_issues = max(count)) %>% 
-  arrange(desc(maxim))
+repos_summary <- repos %>% group_by(language) %>% 
+  arrange(desc(num_repos)) %>% head(15)
+View(repos_summary)
+
+issues_summary <- issues %>% group_by(name) %>% 
+  summarise(sum_issues = sum(count)) %>%
+  arrange(desc(sum_issues)) %>% head(15)
 View(issues_summary)
 
 

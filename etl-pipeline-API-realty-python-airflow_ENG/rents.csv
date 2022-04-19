@@ -1,0 +1,201 @@
+property_id,prop_type,prop_status,year_built,address_city,address_line,address_state_code,address_state,address_county,address_lat,address_lon,address_neighborhood_name,community_price_max,community_price_min
+R9091177126,apartment,for_rent,1950.0,New York,39-43 Park Ave,NY,New York,New York,40.748569,-73.979921,Murray Hill,4995.0,4995.0
+R9392782775,apartment,for_rent,2021.0,Brooklyn,1223 Putnam Ave,NY,New York,Kings,40.691407,-73.915856,Bushwick,3300.0,2600.0
+R3195510894,apartment,for_rent,2017.0,New York,150 E 34th St,NY,New York,New York,40.745895,-73.979286,Rose Hill,5565.0,3105.0
+R9934175083,apartment,for_rent,1973.0,New York,30 Waterside Plz,NY,New York,New York,40.737931,-73.972919,Kips Bay,6792.0,3490.0
+R9955612276,apartment,for_rent,1965.0,New York,315 W 57th St,NY,New York,New York,40.767551,-73.983684,Hell's Kitchen,8708.0,8708.0
+R3085881921,apartment,for_rent,1911.0,New York,50 W 34th St,NY,New York,New York,40.74935,-73.98764,Koreatown,5150.0,5150.0
+R4081015753,apartment,for_rent,2003.0,New York,601 W 57th St,NY,New York,New York,40.770771,-73.991789,Hell's Kitchen,6000.0,3450.0
+R4060444952,apartment,for_rent,2008.0,New York,95 Wall St,NY,New York,New York,40.704677,-74.007579,Financial District,6845.0,3384.0
+R3060426469,apartment,for_rent,1998.0,New York,10 E 29th St,NY,New York,New York,40.744899,-73.98626,NoMad,14748.0,4997.0
+R3795208504,apartment,for_rent,1963.0,New York,784-792 Columbus Ave,NY,New York,New York,40.79428,-73.96748,Manhattan Valley,6500.0,4895.0
+R4937739440,apartment,for_rent,1983.0,New York,345-395 S End Ave,NY,New York,New York,40.71149,-74.01631,Battery Park City,6045.0,3685.0
+R4834782599,apartment,for_rent,2007.0,Long Island City,4-75 48th Ave,NY,New York,Queens,40.745071,-73.956662,Hunters Point,6018.0,2880.0
+R9067316177,apartment,for_rent,1922.0,Woodside,4706 49th St,NY,New York,Queens,40.740667,-73.916526,Sunnyside,1900.0,1900.0
+R4097785427,apartment,for_rent,1999.0,Manhattan,101 W End Ave,NY,New York,New York,40.775154,-73.988385,Lincoln Square,11999.0,4812.0
+R9316288755,apartment,for_rent,1968.0,New York,755 Amsterdam Ave,NY,New York,New York,40.794453,-73.969784,Manhattan Valley,5200.0,3150.0
+R3025400886,apartment,for_rent,2010.0,Manhattan,105 W 29th St,NY,New York,New York,40.746897,-73.990244,Chelsea,8488.0,4303.0
+R3767344279,apartment,for_rent,2016.0,Staten Island,8 Navy Pier Ct,NY,New York,Richmond,40.62938,-74.07419,Stapleton,2572.0,2120.0
+R3396008271,apartment,for_rent,1925.0,New York,145 W 58th St,NY,New York,New York,40.765806,-73.978096,Theater District,6450.0,6450.0
+R3386014548,apartment,for_rent,1952.0,Bronx,1981 Sedgwick Ave,NY,New York,Bronx,40.857118,-73.916594,University Heights,1979.0,1599.0
+R4771702485,apartment,for_rent,1984.0,Staten Island,3-75 Darcey Ave,NY,New York,Richmond,40.601739,-74.163422,NA,1450.0,1450.0
+R4454963254,apartment,for_rent,1.0,Brooklyn,68 Sunnyside Ave,NY,New York,Kings,40.680535,-73.893859,Highland Park,2500.0,925.0
+R9397883050,apartment,for_rent,1920.0,New York,493 Second Ave,NY,New York,New York,40.741,-73.979056,Rose Hill,1.0,1.0
+R3022233280,apartment,for_rent,2014.0,Brooklyn,66 Rockwell Pl,NY,New York,Kings,40.68806,-73.97956,Fort Greene,6248.0,2971.0
+R9485201009,apartment,for_rent,1.0,New York,888 Avenue of the Americas,NY,New York,New York,40.748203,-73.98872,Koreatown,7000.0,7000.0
+R9248869870,apartment,for_rent,1919.0,New York,517 W 113th St,NY,New York,New York,40.80549,-73.963312,Morningside Heights,4400.0,2400.0
+R3736300223,apartment,for_rent,1980.0,Brooklyn,4424 Kings Hwy,NY,New York,Kings,40.625985,-73.93271,Flatlands,1300.0,1300.0
+R9790136195,apartment,for_rent,1962.0,Flushing,142-27 Barclay Ave,NY,New York,Queens,40.759015,-73.824637,Downtown Flushing,2200.0,1700.0
+R9003128438,apartment,for_rent,2021.0,Brooklyn,196 Willoughby St,NY,New York,Kings,40.691821,-73.980231,Downtown Brooklyn,5585.0,3138.0
+R4325665198,apartment,for_rent,2019.0,Jamaica,178-02 Hillside Ave,NY,New York,Queens,40.712027,-73.784761,Eastwood,3500.0,2425.0
+R9648813066,apartment,for_rent,1924.0,New York,210 W 70th St,NY,New York,New York,40.777446,-73.983519,Lincoln Square,3925.0,2995.0
+R9424049245,apartment,for_rent,1900.0,New York,484 Amsterdam Ave,NY,New York,New York,40.786091,-73.976581,Upper West Side,3900.0,3900.0
+R3711512409,apartment,for_rent,2019.0,New York,11 Cooper St,NY,New York,New York,40.86715,-73.924865,Inwood,2350.0,2250.0
+R3413835789,apartment,for_rent,1940.0,Bronx,2000 E Tremont Ave,NY,New York,Bronx,40.841394,-73.860252,Parkchester,1725.0,1300.0
+R9426321185,apartment,for_rent,1924.0,New York,605 W 112th St,NY,New York,New York,40.805929,-73.966313,Morningside Heights,2595.0,2495.0
+R3013695161,apartment,for_rent,1962.0,Corona,96-02-96-40 57th Ave,NY,New York,Queens,40.73651,-73.8653,LeFrak City,2948.0,1880.0
+R9117692347,apartment,for_rent,2017.0,Long Island City,28-40 Jackson Ave,NY,New York,Queens,40.748659,-73.937672,Long Island City,4450.0,3111.0
+R9426257429,apartment,for_rent,2019.0,Brooklyn,475 Clermont Ave,NY,New York,Kings,40.683864,-73.968835,Clinton Hill,6945.0,2806.0
+R9775392428,apartment,for_rent,2020.0,New York,158 E 126th St,NY,New York,New York,40.804441,-73.936417,East Harlem,5000.0,3301.0
+R3570685634,apartment,for_rent,1952.0,Far Rockaway,2010 Seagirt Blvd,NY,New York,Queens,40.59557,-73.75543,Far Rockaway,2107.0,1490.0
+R9969458610,apartment,for_rent,2019.0,Bronx,3470 Fort Independence St,NY,New York,Bronx,40.881838,-73.898477,Kingsbridge Heights,2550.0,1625.0
+R9947744432,apartment,for_rent,1939.0,Flushing,140-30-140-50 Ash Ave,NY,New York,Queens,40.755729,-73.822454,Flushing,3259.0,1699.0
+R3794671557,apartment,for_rent,2016.0,New York,100 W 31st St,NY,New York,New York,40.74768,-73.99,Chelsea,7550.0,4765.0
+R9086454104,apartment,for_rent,2019.0,New York,675 W 59th St,NY,New York,New York,40.772751,-73.992782,Lincoln Square,23250.0,6825.0
+R4095299981,apartment,for_rent,1911.0,Bronx,939 Woodycrest Ave,NY,New York,Bronx,40.831065,-73.929735,Highbridge,1849.0,1849.0
+R9246425890,apartment,for_rent,1974.0,New York,1660 Madison Ave,NY,New York,New York,40.796551,-73.947568,East Harlem,1474.0,1313.0
+R3188507190,apartment,for_rent,2018.0,Arverne,190 Beach 69th St,NY,New York,Queens,40.589922,-73.79765,Arverne,3250.0,3250.0
+R4326064301,apartment,for_rent,2016.0,Bronx,1680 Pelham Pkwy S,NY,New York,Bronx,40.856081,-73.838352,Morris Park,2220.0,1500.0
+R9426967368,apartment,for_rent,1961.0,Elmhurst,94-25 57th Ave,NY,New York,Queens,40.736654,-73.86645,Elmhurst,3299.0,1699.0
+R9829023224,apartment,for_rent,2022.0,Bronx,6375 Broadway,NY,New York,Bronx,40.900061,-73.907049,NA,2975.0,1725.0
+R9313009259,apartment,for_rent,2022.0,Brooklyn,160 Front St,NY,New York,Kings,40.702256,-73.98622,DUMBO,6182.0,3203.0
+R4016929428,apartment,for_rent,2019.0,Astoria,10 Halletts Pt,NY,New York,Queens,40.77636,-73.93536,Astoria,5116.0,2788.0
+R9208984075,apartment,for_rent,2022.0,Jamaica,148-37 88th Ave,NY,New York,Queens,40.705597,-73.807026,Jamaica,3000.0,2045.0
+R3426909777,apartment,for_rent,1960.0,Elmhurst,51-25 Van Kleeck St,NY,New York,Queens,40.736418,-73.881984,Elmhurst,2199.0,1599.0
+R9192088332,apartment,for_rent,1931.0,Brooklyn,283-285 Evergreen Ave,NY,New York,Kings,40.695215,-73.925147,Bushwick,1512.0,1359.0
+R9296223239,apartment,for_rent,2021.0,Long Island City,29-59 Northern Blvd,NY,New York,Queens,40.750243,-73.935795,Long Island City,6847.0,3516.0
+R9885293171,apartment,for_rent,2021.0,Bronx,2401 3rd Ave,NY,New York,Bronx,40.808674,-73.931913,Mott Haven,6160.0,2953.0
+R3260778387,apartment,for_rent,1993.0,New York,235 W 48th St,NY,New York,New York,40.760893,-73.986089,Times Square,6700.0,3325.0
+R9658975734,apartment,for_rent,1905.0,Brooklyn,854 Hancock St,NY,New York,Kings,40.685594,-73.921371,Bedford-Stuyvesant,1165.0,1165.0
+R3534835309,apartment,for_rent,2010.0,Brooklyn,111 Lawrence St,NY,New York,Kings,40.692741,-73.985954,Downtown Brooklyn,5441.0,3242.0
+R9566629666,apartment,for_rent,2018.0,Brooklyn,21 India St,NY,New York,Kings,40.731928,-73.960148,Greenpoint,6740.0,2620.0
+R3946655980,apartment,for_rent,1929.0,New York,63 Wall St,NY,New York,New York,40.705629,-74.008775,Financial District,5418.0,3525.0
+R3085503483,apartment,for_rent,1985.0,New York,401 E 34th St,NY,New York,New York,40.743833,-73.973263,Murray Hill,8470.0,3611.0
+R3813225352,apartment,for_rent,2021.0,Brooklyn,300 Saint Nicholas Ave,NY,New York,Kings,40.701149,-73.911341,Bushwick,1444.0,1430.0
+R9170164661,apartment,for_rent,2020.0,Jamaica,147-40-148-10 Archer Ave,NY,New York,Queens,40.700538,-73.806779,Jamaica,2566.0,2026.0
+R9682156034,apartment,for_rent,2019.0,New York,225 Cherry St,NY,New York,New York,40.710904,-73.991002,Two Bridges,7250.0,7250.0
+R9061537811,apartment,for_rent,2005.0,New York,10 Hanover Sq,NY,New York,New York,40.70457,-74.008856,Financial District,5443.0,3220.0
+R3600043278,apartment,for_rent,2016.0,New York,625 W 57th St,NY,New York,New York,40.771431,-73.992964,Hell's Kitchen,11500.0,4500.0
+R3614546578,apartment,for_rent,1961.0,Jamaica,88-15 168th St,NY,New York,Queens,40.709143,-73.79388,Jamaica,2199.0,1599.0
+R3488534926,apartment,for_rent,2015.0,Brooklyn,395 Leonard St,NY,New York,Kings,40.71808,-73.94859,Williamsburg,1.0,1.0
+R9362090415,apartment,for_rent,1920.0,New York,535-537 W 162nd St,NY,New York,New York,40.836838,-73.9412,Washington Heights,3199.0,3199.0
+R9693217560,apartment,for_rent,1961.0,New York,2300 5th Ave,NY,New York,New York,40.816288,-73.936174,Central Harlem,2925.0,1695.0
+R9646303519,apartment,for_rent,2017.0,New York,600 W 58th St,NY,New York,New York,40.771028,-73.9916,Hell's Kitchen,5867.0,2457.0
+R3330811670,apartment,for_rent,1971.0,New York,180 Water St,NY,New York,New York,40.70698,-74.00557,Financial District,7329.0,3621.0
+R9011071523,apartment,for_rent,1920.0,New York,560-562 W 174th St,NY,New York,Queens,40.850944,-73.942434,NA,2695.0,2695.0
+R9230430732,apartment,for_rent,2019.0,New York,685 First Ave,NY,New York,New York,40.747404,-73.971411,Murray Hill,11450.0,4580.0
+R9835400214,apartment,for_rent,1931.0,Brooklyn,913 Saint Marks Ave,NY,New York,Kings,40.67497,-73.941274,Crown Heights,1285.0,1285.0
+R3096312318,apartment,for_rent,2010.0,Jamaica,153-30 89th Ave,NY,New York,Queens,40.7053,-73.80213,Jamaica,2790.0,1851.0
+R9243085909,apartment,for_rent,2018.0,New York,20 Broad St,NY,New York,New York,40.706615,-74.011459,Financial District,7054.0,3300.0
+R9475535376,apartment,for_rent,2018.0,Long Island City,29-22 Northern Blvd,NY,New York,Queens,40.749064,-73.936591,Long Island City,1288.0,1288.0
+R9598487189,apartment,for_rent,2019.0,Brooklyn,1277 E 14th St,NY,New York,Kings,40.618754,-73.960993,Midwood,3969.0,2486.0
+R3240035228,apartment,for_rent,2010.0,Brooklyn,34 Berry St,NY,New York,Kings,40.721429,-73.956736,Williamsburg,5200.0,5200.0
+R4950728318,apartment,for_rent,2004.0,Kew Gardens Hills,7525 153rd St,NY,New York,Queens,40.72511,-73.812627,Kew Gardens Hills,2400.0,2400.0
+R4053193014,apartment,for_rent,2021.0,Bronx,3013 Barker Ave,NY,New York,Bronx,40.870116,-73.869561,Olinville,2500.0,1800.0
+R4799771322,apartment,for_rent,2017.0,Brooklyn,363 Bond St,NY,New York,Kings,40.678004,-73.989917,Gowanus,7000.0,2595.0
+R9629653645,apartment,for_rent,1929.0,New York,160 E 48th St,NY,New York,New York,40.754643,-73.972108,Turtle Bay,7525.0,3857.0
+R4060519484,apartment,for_rent,1900.0,New York,25 Broad St,NY,New York,New York,40.705921,-74.010766,Financial District,3163.0,3061.0
+R9399674408,apartment,for_rent,1997.0,New York,520 W 43rd St,NY,New York,New York,40.76054,-73.996379,Hudson Yards,5775.0,3625.0
+R9998170936,apartment,for_rent,2011.0,New York,883-889 Ave,NY,New York,Queens,40.750768,-73.997499,NA,6995.0,3395.0
+R9832469629,apartment,for_rent,2022.0,Bronx,2065-2067 Ryer Ave,NY,New York,Bronx,40.852466,-73.90122,Fordham Heights,1890.0,1890.0
+R9798499135,apartment,for_rent,2016.0,New York,546 W 44th St,NY,New York,New York,40.761402,-73.996588,Hell's Kitchen,3995.0,3850.0
+R4069884822,apartment,for_rent,2010.0,Astoria,26-38 21st St,NY,New York,Queens,40.77266,-73.92586,Astoria,3100.0,2975.0
+R9943188060,apartment,for_rent,1956.0,Brooklyn,1901 Dorchester Rd,NY,New York,Kings,40.641317,-73.96034,Flatbush,2100.0,2100.0
+R4082113801,apartment,for_rent,1975.0,Ozone Park,87-20 Pitkin Ave,NY,New York,Queens,40.673969,-73.848706,Ozone Park,2150.0,1500.0
+R9655722437,apartment,for_rent,2018.0,Brooklyn,207 S 3rd St,NY,New York,Kings,40.711384,-73.959143,Williamsburg,1829.0,1829.0
+R4474024157,apartment,for_rent,2019.0,New York,63 W 130th St,NY,New York,New York,40.810782,-73.942211,Central Harlem,1335.0,1335.0
+R3611417678,apartment,for_rent,1901.0,Brooklyn,417 Grand Ave,NY,New York,Kings,40.683387,-73.961508,Clinton Hill,1492.0,1492.0
+R9045454912,apartment,for_rent,1947.0,New York,2225-2265 5th Ave,NY,New York,Queens,40.813126,-73.937539,NA,2000.0,2000.0
+R9238817469,apartment,for_rent,1948.0,Bronx,5530-5572 Netherland Ave,NY,New York,Bronx,40.900061,-73.907049,NA,3300.0,2330.0
+R3475495974,apartment,for_rent,2010.0,New York,60 Riverside Blvd,NY,New York,New York,40.777042,-73.988858,Lincoln Square,13300.0,4325.0
+R4137196745,apartment,for_rent,1998.0,New York,250 W 50th St,NY,New York,New York,40.761828,-73.985814,Times Square,7162.0,3602.0
+R3624655247,apartment,for_rent,1964.0,New York,305-315 E 86th St,NY,New York,New York,40.77799,-73.95092,Yorkville,11500.0,11500.0
+R3188995408,apartment,for_rent,2010.0,New York,400 W 63rd St,NY,New York,New York,40.774326,-73.99029,Lincoln Square,9990.0,3890.0
+R3465939934,apartment,for_rent,1935.0,Bronx,3480 Seymour Ave,NY,New York,Bronx,40.87775,-73.84941,Williamsbridge,1875.0,1325.0
+R9393264581,apartment,for_rent,2007.0,New York,34 W 139th St,NY,New York,New York,40.815496,-73.936849,Central Harlem,2700.0,2700.0
+R3046308854,apartment,for_rent,1973.0,Bayside,16-70 Bell Blvd,NY,New York,Queens,40.783,-73.777915,Bay Terrace,2500.0,2200.0
+R3133410518,apartment,for_rent,1963.0,Douglaston,43 60 Douglaston Pkwy,NY,New York,Queens,40.76642,-73.74617,Douglaston Hill,3095.0,1795.0
+R3183724128,apartment,for_rent,1970.0,Far Rockaway,707 Beach 9th St,NY,New York,Queens,40.60222,-73.745986,Far Rockaway,2295.0,1795.0
+R3310822971,apartment,for_rent,1986.0,New York,280 Park Ave S,NY,New York,New York,40.73944,-73.98748,Flatiron District,5025.0,5025.0
+R9716392454,apartment,for_rent,2017.0,Long Island City,4220 24th St,NY,New York,Queens,40.750431,-73.942114,Long Island City,4252.0,4252.0
+R3878973846,apartment,for_rent,1948.0,Brooklyn,2064 Cropsey Ave,NY,New York,Kings,40.598774,-74.001943,Bath Beach,1750.0,1350.0
+R9831991752,apartment,for_rent,1.0,Brooklyn,1057 Fulton St,NY,New York,Kings,40.682148,-73.959453,Clinton Hill,1840.0,1840.0
+R9281920149,apartment,for_rent,1928.0,Flushing,35-01-09 191st St,NY,New York,Queens,40.764309,-73.791009,Auburndale,2245.0,2125.0
+R3894184312,apartment,for_rent,1960.0,Bronx,1770 Grand Concourse,NY,New York,Bronx,40.845682,-73.909623,Mount Hope,2016.0,2016.0
+R4518210098,apartment,for_rent,2018.0,Bronx,5959 Broadway,NY,New York,Bronx,40.889219,-73.89898,Kingsbridge,1875.0,1522.0
+R9603217960,apartment,for_rent,1920.0,New York,267 W 139th St,NY,New York,New York,40.819139,-73.944339,Central Harlem,1138.0,1138.0
+R3286654922,apartment,for_rent,2011.0,Brooklyn,343 Gold St,NY,New York,Kings,40.694078,-73.982882,Downtown Brooklyn,6310.0,3417.0
+R4035178398,apartment,for_rent,2001.0,Astoria,14-56 31st Dr,NY,New York,Queens,40.76602,-73.93141,Astoria,2600.0,2600.0
+R9327890400,apartment,for_rent,2019.0,Long Island City,27-18 Hoyt Ave S,NY,New York,Queens,40.77128,-73.919928,Astoria,5200.0,2500.0
+R9035509604,apartment,for_rent,2021.0,New York,12 W 44th St,NY,New York,New York,40.755024,-73.981105,Midtown East,2180.0,2180.0
+R4180463818,apartment,for_rent,1964.0,Brooklyn,2940-3000 Ocean Pkwy,NY,New York,Kings,40.57956,-73.96849,Coney Island,2300.0,2300.0
+R3331989080,apartment,for_rent,2004.0,New York,9 W 31st St,NY,New York,New York,40.747088,-73.986675,Koreatown,4695.0,4695.0
+R3071310236,apartment,for_rent,1929.0,New York,150 E 84th St,NY,New York,New York,40.777669,-73.955915,Upper East Side,2910.0,2200.0
+R9625132702,apartment,for_rent,1963.0,New York,160 E 88th St,NY,New York,New York,40.780473,-73.954439,Upper East Side,19500.0,19500.0
+R9672662712,apartment,for_rent,2000.0,Flushing,137-02 Northern Blvd,NY,New York,Queens,40.762983,-73.830733,Downtown Flushing,2500.0,2500.0
+R3952101210,apartment,for_rent,1931.0,Flushing,16-63 Madison St,NY,New York,Queens,40.70029,-73.9082,Ridgewood,1735.0,1735.0
+R9731043853,apartment,for_rent,1924.0,Long Island City,31-25 41st St,NY,New York,Queens,40.760181,-73.916576,Astoria,2500.0,2300.0
+R4298174062,apartment,for_rent,1987.0,Brooklyn,97 Columbia Hts,NY,New York,Kings,40.69975,-73.995365,Brooklyn Heights,2600.0,1500.0
+R3869382709,apartment,for_rent,1910.0,New York,468 W 146th St,NY,New York,New York,40.82549,-73.94644,Hamilton Heights,1483.0,1483.0
+R9054825239,apartment,for_rent,1904.0,New York,229 E 53rd St,NY,New York,New York,40.757396,-73.968087,Midtown East,4895.0,4295.0
+R9210458094,apartment,for_rent,2017.0,Brooklyn,280 Lincoln Rd,NY,New York,Kings,40.661302,-73.953322,Prospect Lefferts Gardens,1200.0,1200.0
+R3281899802,apartment,for_rent,1956.0,Bronx,1130 Pelham Pkwy S,NY,New York,Bronx,40.856683,-73.856375,Pelham Parkway,2429.0,1650.0
+R9000157039,apartment,for_rent,1910.0,Brooklyn,355 Tompkins Ave,NY,New York,Kings,40.685655,-73.944114,Bedford-Stuyvesant,1580.0,1265.0
+R3070830943,apartment,for_rent,1910.0,Brooklyn,1509 Pacific St,NY,New York,Kings,40.67733,-73.94115,Crown Heights,1554.0,1492.0
+R4657251013,apartment,for_rent,1.0,Brooklyn,1287 Sterling Pl,NY,New York,Kings,40.671973,-73.935859,Weeksville,1200.0,1200.0
+R3216613996,apartment,for_rent,1974.0,Arverne,57-17 Shore Front Pkwy,NY,New York,Queens,40.591,-73.78825,Arverne,1673.0,1374.0
+R9663259591,apartment,for_rent,1963.0,New York,210 W 89th St,NY,New York,New York,40.789676,-73.974459,Upper West Side,3895.0,3895.0
+R9630979708,apartment,for_rent,2022.0,Brooklyn,125 Kings Hwy,NY,New York,Kings,40.60624,-73.986703,Gravesend,2700.0,2700.0
+R9696115217,apartment,for_rent,1910.0,New York,444-446 E 81st St,NY,New York,New York,40.772762,-73.950195,Yorkville,2495.0,2495.0
+R9917881796,apartment,for_rent,1910.0,New York,402 E 78th St,NY,New York,New York,40.771258,-73.952853,Upper East Side,3295.0,3295.0
+R9419994812,apartment,for_rent,2013.0,Brooklyn,50 N 5th St,NY,New York,Kings,40.718601,-73.962123,Williamsburg,7777.0,4647.0
+R9154733878,apartment,for_rent,2019.0,Jamaica,152-11 89th Ave,NY,New York,Queens,40.705384,-73.804787,Jamaica,3250.0,1775.0
+R4294681886,apartment,for_rent,1964.0,Staten Island,937 Victory Blvd,NY,New York,Richmond,40.621193,-74.09884,Silver Lake,1730.0,1400.0
+R4053625040,apartment,for_rent,1910.0,New York,430-434 E 72nd St,NY,New York,New York,40.76699,-73.95454,Upper East Side,1975.0,1795.0
+R3166942469,apartment,for_rent,1980.0,New York,401 E 80th St,NY,New York,New York,40.77326,-73.95166,Yorkville,14000.0,3450.0
+R9964693611,apartment,for_rent,2001.0,Rockaway Beach,9202-9280 Holland Ave,NY,New York,Queens,40.613065,-73.823817,NA,2210.0,2210.0
+R3207893491,apartment,for_rent,1986.0,New York,235 W 56th St,NY,New York,New York,40.765976,-73.98255,Theater District,7330.0,2500.0
+R3509000382,apartment,for_rent,1913.0,Bronx,558 E 191st St,NY,New York,Bronx,40.859501,-73.88597,Fordham Manor,6000.0,4000.0
+R9192332770,apartment,for_rent,2016.0,Bronx,6155 Broadway,NY,New York,Bronx,40.894949,-73.896951,Fieldston,2375.0,1550.0
+R9117324890,apartment,for_rent,1903.0,Bronx,2503 Hughes Ave,NY,New York,Bronx,40.857638,-73.885107,Belmont,5000.0,2300.0
+R9019911667,apartment,for_rent,1920.0,New York,281 Edgecombe Ave,NY,New York,New York,40.824591,-73.943511,Hamilton Heights,3700.0,2235.0
+R9294444722,apartment,for_rent,1902.0,New York,1 West St,NY,New York,New York,40.70506,-74.017451,Battery Park City,4800.0,2600.0
+R4035625590,apartment,for_rent,2011.0,New York,888 Main St,NY,New York,New York,40.76907,-73.9436,Roosevelt Island,7199.0,2976.0
+R9675839677,apartment,for_rent,1920.0,New York,315 E 84th St,NY,New York,New York,40.776388,-73.951694,Yorkville,2400.0,2400.0
+R3340972435,apartment,for_rent,2019.0,Brooklyn,452 Harman St,NY,New York,Kings,40.703036,-73.91542,Bushwick,2800.0,1500.0
+R9381843077,apartment,for_rent,1910.0,New York,220 W 149th St,NY,New York,New York,40.824538,-73.938654,Central Harlem,1830.0,1830.0
+R3881784137,apartment,for_rent,2021.0,Bronx,186 Saint Georges Cres,NY,New York,Bronx,40.87645,-73.884407,Bedford Park,2100.0,1600.0
+R9547564590,apartment,for_rent,1945.0,Bayside,21006 42nd Ave,NY,New York,Queens,40.761923,-73.77359,Bayside,2250.0,1550.0
+R9483981379,apartment,for_rent,1931.0,Brooklyn,310 E 25th St,NY,New York,Kings,40.642672,-73.953706,Flatbush,2299.0,2299.0
+R9811147841,apartment,for_rent,1904.0,Bronx,657 E 187th St,NY,New York,Bronx,40.854886,-73.885723,Belmont,4900.0,4900.0
+R9274937736,apartment,for_rent,1912.0,Bronx,4521 3rd Ave,NY,New York,Bronx,40.854036,-73.891184,East Tremont,2400.0,2200.0
+R9155629567,apartment,for_rent,1990.0,Bronx,5775 Mosholu Ave,NY,New York,Bronx,40.905849,-73.898195,North Riverdale,1700.0,1700.0
+R9766621585,apartment,for_rent,1972.0,Brooklyn,2960 W 24th St,NY,New York,Kings,40.574377,-73.991056,Coney Island,3096.0,1734.0
+R9722367612,apartment,for_rent,1930.0,Flushing,43-39 158th St,NY,New York,Queens,40.757844,-73.807812,Flushing,1375.0,1375.0
+R9179618138,apartment,for_rent,1920.0,New York,334 E 79th St,NY,New York,New York,40.772463,-73.953726,Upper East Side,2600.0,1000.0
+R9724565580,apartment,for_rent,1920.0,Flushing,140-71 Ash Ave,NY,New York,Queens,40.756356,-73.822098,Flushing,1750.0,1750.0
+R9601168286,apartment,for_rent,2020.0,Long Island City,42-22 Crescent St,NY,New York,Queens,40.750163,-73.941343,Long Island City,2995.0,2995.0
+R3054985642,apartment,for_rent,2002.0,New York,354 E 91st St,NY,New York,New York,40.77998,-73.94746,Yorkville,6710.0,4575.0
+R9278405919,apartment,for_rent,2022.0,Brooklyn,1 Bell Slip,NY,New York,Kings,40.736707,-73.959053,Greenpoint,17932.0,3109.0
+R4872199653,apartment,for_rent,1.0,Brooklyn,123 Melrose St,NY,New York,Kings,40.699766,-73.933458,Bushwick,3394.0,3394.0
+R9293859088,apartment,for_rent,1.0,Brooklyn,123 Melrose St,NY,New York,Kings,40.699766,-73.933458,Bushwick,3253.0,3253.0
+R9704659819,apartment,for_rent,1.0,Brooklyn,502 Bushwick Ave,NY,New York,Kings,40.700874,-73.93683,Bushwick,2746.0,2746.0
+R9519502934,condo,for_rent,1.0,New York,305 2nd Ave,NY,New York,New York,40.734743,-73.983669,Gramercy Park,7200.0,7200.0
+R9578073997,condo,for_rent,1.0,New York,350 W 42nd St,NY,New York,New York,40.757873,-73.99227,Hudson Yards,6900.0,6900.0
+R9438082041,condo,for_rent,1.0,New York,1 W End Ave,NY,New York,New York,40.772199,-73.990899,Lincoln Square,7500.0,7500.0
+R9980375127,apartment,for_rent,1.0,New York,229 Chrystie St,NY,New York,New York,40.72326,-73.991415,Bowery,4620.0,4620.0
+R9388214354,condo,for_rent,1.0,New York,210 Riverside Dr,NY,New York,New York,40.794176,-73.976026,Upper West Side,8700.0,8700.0
+R9812285637,condo,for_rent,1.0,Brooklyn,98 Clifton Pl,NY,New York,Kings,40.687822,-73.960587,Clinton Hill,4250.0,4250.0
+R9304846839,apartment,for_rent,1.0,Brooklyn,10 Montieth St,NY,New York,Kings,40.701269,-73.935689,Bushwick,3000.0,3000.0
+R9522628887,apartment,for_rent,1.0,New York,60 W 142nd St,NY,New York,New York,40.817423,-73.936701,Central Harlem,1625.0,1625.0
+R9812022289,apartment,for_rent,1.0,Brooklyn,1119 Willoughby Ave,NY,New York,Kings,40.701584,-73.925777,Bushwick,2400.0,2400.0
+R9258200731,apartment,for_rent,1.0,New York,423 E 81st St,NY,New York,New York,40.773293,-73.95026,Yorkville,6950.0,6950.0
+R9693529201,apartment,for_rent,1.0,Brooklyn,10 Montieth St,NY,New York,Kings,40.701269,-73.935689,Bushwick,1.0,1.0
+R4576671221,apartment,for_rent,1.0,New York,208 Rivington St,NY,New York,New York,40.71845,-73.98284,Lower East Side,1.0,1.0
+R9232057103,apartment,for_rent,1.0,Brooklyn,433 Rogers Ave,NY,New York,Kings,40.66195,-73.953346,Prospect Lefferts Gardens,1.0,1.0
+R9743942268,apartment,for_rent,1.0,Brooklyn,1075 Greene Ave,NY,New York,Kings,40.692601,-73.924637,Bushwick,1.0,1.0
+R9590751041,apartment,for_rent,1.0,Brooklyn,160 Clarkson Ave,NY,New York,Kings,40.654797,-73.954432,Flatbush,1.0,1.0
+R9113727588,apartment,for_rent,1.0,Brooklyn,2289 Pacific St,NY,New York,Kings,40.675704,-73.909808,Ocean Hill,1.0,1.0
+R9097482546,condo,for_rent,1.0,New York,247 W 46th St,NY,New York,New York,40.759848,-73.987439,Times Square,1.0,1.0
+R9522456221,apartment,for_rent,1.0,Brooklyn,1087 Flushing Ave,NY,New York,Kings,40.705158,-73.928483,East Williamsburg,1.0,1.0
+R9354265932,apartment,for_rent,1.0,Brooklyn,180 Bainbridge St,NY,New York,Kings,40.68101,-73.92973,Bedford-Stuyvesant,1.0,1.0
+R9714551284,apartment,for_rent,1.0,Brooklyn,1075 Greene Ave,NY,New York,Kings,40.692601,-73.924637,Bushwick,1.0,1.0
+R9451630343,apartment,for_rent,1.0,Brooklyn,1969 Pacific St,NY,New York,Kings,40.676432,-73.923226,Weeksville,1.0,1.0
+R9030785206,apartment,for_rent,1.0,Brooklyn,245 Ralph Ave,NY,New York,Kings,40.681127,-73.922095,Bedford-Stuyvesant,1.0,1.0
+R4879019320,apartment,for_rent,1.0,Brooklyn,1127 Flatbush Ave,NY,New York,Kings,40.642963,-73.95737,Flatbush,1.0,1.0
+R9248687355,apartment,for_rent,1.0,Brooklyn,1058 Bergen St,NY,New York,Kings,40.675897,-73.951128,Crown Heights,1.0,1.0
+R9168794492,apartment,for_rent,1.0,Brooklyn,282 E 32nd St,NY,New York,Kings,40.64376,-73.947179,Flatbush,1.0,1.0
+R9086372948,apartment,for_rent,1.0,New York,235 W 103rd St,NY,New York,New York,40.799291,-73.968759,Upper West Side,1.0,1.0
+R9665646297,apartment,for_rent,1.0,Brooklyn,242 Newkirk Ave,NY,New York,Kings,40.631819,-73.970681,Kensington,1.0,1.0
+R9900471156,apartment,for_rent,1.0,Brooklyn,1470 Eastern Pkwy,NY,New York,Kings,40.669464,-73.919492,Ocean Hill,1.0,1.0
+R9247519513,apartment,for_rent,1.0,Brooklyn,163 Johnson Ave,NY,New York,Kings,40.706678,-73.943521,East Williamsburg,1.0,1.0
