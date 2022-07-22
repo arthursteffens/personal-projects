@@ -1,4 +1,4 @@
-bkp/
-json256k/
-.ipynb_checkpoints/
-texto.txt
+json
+venv
+mongo_data
+*.ipynb

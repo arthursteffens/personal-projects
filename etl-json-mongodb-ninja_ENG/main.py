@@ -1,10 +1,6 @@
-# Packages used on this script
-
-from json import load
-from json import dump
-from glob import iglob
-from os import listdir
-from os import path
+import json
+import glob
+import os
 from pymongo import MongoClient
 
 
@@ -29,7 +25,7 @@ file = os.listdir(jsonPath)
 
 # Function 'iglob' used to list and count json files in the directory
 
-countFiles = sum(1 for i in iglob(jsonPath + "*.json"))
+countFiles = sum(1 for i in glob.iglob(jsonPath + "*.json"))
 print("There are {} files in {} directory.".format(countFiles, jsonPath))
 
 
