@@ -1,0 +1,17 @@
+version: '3'
+
+services:
+  mysql_db:
+    container_name: mysql
+    image: mysql:8.0
+    environment:
+      MYSQL_DATABASE: realty
+      MYSQL_USER: arthur
+      MYSQL_PASSWORD: arthurpass
+      MYSQL_ROOT_PASSWORD: rootpassword
+    command: mysqld --sql_mode="" --init-connect='SET NAMES UTF8;' --innodb-flush-log-at-trx-commit=0
+    ports:
+      - 3306:3306
+    volumes:
+      - ./mysqldata/:/var/lib/mysql
+      - ./data/realty.sql:/docker-entrypoint-initdb.d/realty.sql
