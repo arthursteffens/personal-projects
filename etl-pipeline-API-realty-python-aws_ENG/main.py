@@ -1,38 +1,68 @@
-import pandas as pd
-from functions import get_rent, get_sales, get_sold, fill_na
-from constants import *
+from scripts.db_funcs import insert_into_mysql
+from scripts.functions import *
+from scripts.constants import *
+from user_data import *
 import pymysql
+import os, sys, shutil
 
 # Request data
+print("Requesting sales data...")
+try:
+    sales = get_sales(CITY, STATE_CODE, LIMIT)
+    sales = sales[SALES_COLS]
+    print("Ok.")
+except Exception as e:
+    print(f"Error: {e}")
+    sys.exit()
 
-sales = get_sales("New York City", "NY", "200")
-sales = sales[SALES_COLS]
-print(sales.head(5))
+print("Requesting rents data...")
+try:
+    rents = get_rent(CITY, STATE_CODE, LIMIT)
+    rents = rents[RENTS_COLS]
+    print("Ok.")
+except Exception as e:
+    print(f"Error: {e}")
+    sys.exit()
 
-rents = get_rent("New York City", "NY", "200")
-rents = rents[RENTS_COLS]
-print(rents.head(5))
-
-sold = get_sold("New York City", "NY", "200")
-sold = sold[SOLD_COLS]
-print(sold.head(5))
+print("Requesting sold data...")
+try:
+    sold = get_sold(CITY, STATE_CODE, LIMIT)
+    sold = sold[SOLD_COLS]
+    print("Ok.")
+except Exception as e:
+    print(f"Error: {e}")
+    sys.exit()
 
 
 # Remove NAN values from dataframes
-sales = fill_na(sales)
-rents = fill_na(rents)
-sold = fill_na(sold)
-
-
-# Check if there are NAN values
-print(f"{sales.isna().sum()} NA values")
+print("Removing NA values..\n")
+try:
+    sales = fill_na(sales)
+    rents = fill_na(rents)
+    sold = fill_na(sold)
+    print("Ok.")
+except Exception as e:
+    print(f"Error: {e}")
+    sys.exit()
 
 
 # For backup purpose, save dataframes into csv files
-sales.to_csv("./csv/sales.csv", index=False)
-rents.to_csv("./csv/rents.csv", index=False)
-sold.to_csv("./csv/sold.csv", index=False)
-
+try:
+    if not os.path.exists("./csv/"):
+        print("Creating csv folder...")
+        os.makedirs("./csv/")
+    else:
+        print("Csv folder already exists, removing and creating and empty one...")
+        shutil.rmtree("./csv/", ignore_errors=True)
+        os.makedirs("./csv/")
+    print("Saving data into csv files..")
+    sales.to_csv("./csv/sales.csv", index=False)
+    rents.to_csv("./csv/rents.csv", index=False)
+    sold.to_csv("./csv/sold.csv", index=False)
+    print("Ok.")
+except Exception as e:
+    print(f"Error: {e}")
+    sys.exit()
 
 # sales = pd.read_csv("sales.csv")
 # rents = pd.read_csv("rents.csv")
@@ -40,71 +70,59 @@ sold.to_csv("./csv/sold.csv", index=False)
 
 # Fill these data with your credentials
 host = 'localhost'
+host_aws = 'db-realty.ctu8ks44oyou.us-east-1.rds.amazonaws.com'
 port = 3306
-user = 'arthur'
-password = 'arthurpass'
+user = 'user'
+password = 'userpass'
 
 
 # Create a connection with the database service in local machine
-con = pymysql.connect(host=host, port=port, user=user, passwd=password)
+print("Connecting to the database...")
+try:
+    con = pymysql.connect(host=host, port=port, user=user, passwd=password)
+    print(f"Success: {con}")
+except Exception as e:
+    print(f"Error connecting to db: {e}")
+    sys.exit()
 
 # Creating a cursor object
 cursor = con.cursor()
-
 
 # Use the realty schema
 cursor.execute('''
     USE realty;
 ''')
 
+# Insert data into MySQL
+print("Inserting data..")
+try:
+    print("into sales table..")
+    insert_into_mysql(cursor, sales, "sales")
 
-# Convert the Dataframe into a list of arrays
-sales_tuples = tuple(sales.to_records(index=False))
+    print("into rents table..")
+    insert_into_mysql(cursor, rents, "rents")
 
-for data in range(len(sales_tuples)):
-    
-    # Create a new record
-    query = "INSERT INTO sales (property_id, prop_type, prop_status, price, baths, beds, address_city, address_line, address_state_code, address_state, \
-        address_county, addres_lat, address_lon, address_neighborhood_name) VALUES {}".format(sales_tuples[data])
-    
-    # Execute the query
-    cursor.execute(query)
+    print("into sold table..\n")
+    insert_into_mysql(cursor, sold, "sold")
 
-
-# Convert the Dataframe into a list of arrays
-rents_tuples = tuple(rents.to_records(index=False))
-
-for data in range(len(rents_tuples)):
-    
-    # Create a new record
-    query = '''
-        INSERT INTO rents (property_id, prop_type, prop_status, year_built, address_city, address_line, address_state_code, 
-        address_state, address_county, address_lat, address_lon, address_neighborhood_name, community_price_max, community_price_min) 
-        VALUES {}'''.format(rents_tuples[data])
-    
-    # Execute the query
-    cursor.execute(query)
+    print("Done.\n")
+except Exception as e:
+    print(f"Error inserting data: {e}")
+    sys.exit()
 
 
-# Convert the Dataframe into a list of arrays
-sold_tuples = tuple(sold.to_records(index=False))
+# Querying sample data
+query = '''
+        SELECT * FROM sales LIMIT 5;
+'''
+cursor.execute(query)
+result = cursor.fetchall()
 
-for data in range(len(sold_tuples)):
-    
-    # Create a new record
-    query = '''
-        INSERT INTO sold (property_id, prop_type, prop_status, year_built, price, baths, beds, address_city, address_line, address_state_code, 
-        address_state, address_county, address_lat, address_lon, address_neighborhood_name) 
-        VALUES {}'''.format(sold_tuples[data])
-    
-    # Execute the query
-    cursor.execute(query)
-
+print("Sample of the data: \n")
+print(result)
 
 # Commit
 con.commit()
-
-
 con.close()
 
 
